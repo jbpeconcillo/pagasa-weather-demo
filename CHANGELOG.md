@@ -25,5 +25,10 @@ Initial demo application with FastAPI backend, React frontend, PostgreSQL, Redis
 
 ## [1.0.2] - 2026-05-20
 
-### Change
+### Changed
 Fix release changelog.
+
+## [1.1.2] - 2026-05-20
+
+### Changed
+In Dashboard Sidebar Changed Main Page -> Home Page.

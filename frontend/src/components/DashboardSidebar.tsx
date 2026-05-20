@@ -133,7 +133,7 @@ export default function DashboardSidebar({
               width: mini ? MINI_DRAWER_WIDTH : 'auto',
             }}
           >
-            <DashboardSidebarHeaderItem>Main Page</DashboardSidebarHeaderItem>
+            <DashboardSidebarHeaderItem>Home Page</DashboardSidebarHeaderItem>
             <DashboardSidebarPageItem
               id="home"
               title="Home"
