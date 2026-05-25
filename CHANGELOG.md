@@ -32,3 +32,8 @@ Fix release changelog.
 
 ### Changed
 In Dashboard Sidebar Changed Main Page -> Home Page.
+
+## [1.1.3] - 2026-05-20
+
+### Changed
+Update release workflow for github action.
